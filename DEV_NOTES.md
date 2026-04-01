@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Added healthcheck endpoint stub
 - Reorganised test fixtures
+
+## 2026-04-01
+- Added healthcheck endpoint stub
