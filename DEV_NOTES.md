@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Added CONTRIBUTING.md stub
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-01
+- Noted known limitation in docs
+- Added .editorconfig for consistent formatting
+- Added healthcheck endpoint stub
