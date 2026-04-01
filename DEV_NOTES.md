@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-01
 - Added healthcheck endpoint stub
+
+## 2026-04-01
+- Pinned dependency versions for reproducibility
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
